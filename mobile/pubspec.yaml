@@ -1,0 +1,17 @@
+name: teknisi_app
+description: Flutter app starter for Maintenance RS - Teknisi
+version: 0.2.0
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.14.0
+  flutter_secure_storage: ^7.0.0
+  image_picker: ^0.8.6
+  mobile_scanner: ^2.0.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
